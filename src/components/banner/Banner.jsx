@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import './Banner.css'
 import img from '../../assets/media/textile.jpg';
-import TypeWriter from 'react-typewriter';
 import { Carousel } from 'react-bootstrap';
 
  class Banner extends Component {
