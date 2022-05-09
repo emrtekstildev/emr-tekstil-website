@@ -1,0 +1,46 @@
+.contact-main{
+    width: 100%;
+    margin: auto;
+    padding: 5rem;
+}
+.contact-img{
+    width: 50%;
+    max-height: 300px;
+}
+.contact-img img{
+    width: 100% !important;
+    margin: auto;
+}
+.contact-form{
+    width: 100%;
+    margin: auto;
+    padding: 1.5rem;
+}
+.contact-content{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: auto;
+    justify-content: center;
+}
+.slogan{
+   text-align: center;
+}
+.btn{
+    background-color: #E92763 !important;
+    border: 0 !important;
+}
+.contact-main a{
+    text-decoration: none;
+    color: #212529;
+}
+@media screen and (max-width:960px) and (min-width:250px) {
+    .contact-img{
+        width: 80%;
+        max-height: 300px;
+        margin-bottom: 1rem;
+    }
+    .contactUs{
+        margin-bottom: 1rem;
+    }
+}
