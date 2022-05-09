@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import Next from '../../components/next-gen/Next';
 import Critera from '../../components/our-critera/Critera';
 import Invest from '../../components/invest/Invest';
-import Period from '../../components/period/Period';
 
 class Home extends Component {
   render() {
