@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Row,Col } from 'react-bootstrap';
 import { Container } from 'react-bootstrap';
-import logo from '../../assets/media/logo.svg';
+import logo from '../../assets/media/emr-logo.png';
 import './Footer.css';
 
 class Footer extends Component {
@@ -12,12 +12,13 @@ class Footer extends Component {
           <Container>
             <Row className='logo'>
               <a href="#home">
-              <img src={logo} alt='emr'/>
+              
               </a>
             </Row>
               <Row className='logo'>
                 <a href="/">
-                      <h2>{contents.projectName}</h2>
+                      <img src={logo} alt="emr tekstil" />
+                      {/* <h2>{contents.projectName}</h2> */}
                 </a>
               </Row>
               <Row className='footer-links'>

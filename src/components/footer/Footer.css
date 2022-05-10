@@ -1,15 +1,15 @@
 footer{
     text-align: center;
-    border-top: 1px solid #acabab;
+    border-top: 1px solid #393939;
     padding: 3.3rem;
-    background: #212529;
+    background: transparent;
 }
 footer .logo a h2 {
     font-weight: bold;
     color: #fff;
 }
 footer .logo a:hover h2{
-    color: #E92763;
+    color:#FFC000;
 }
 footer .logo a{
     text-decoration: none;
@@ -26,7 +26,7 @@ footer .footer-links{
 }
 footer .footer-links a{
     text-decoration: none;
-    color: #E92763;
+    color:#FFC000;
 }
 footer .footer-links a:hover{
     color: #fff;
@@ -39,7 +39,7 @@ footer .copy{
     color: #6d6d6d;
 }
 footer .copy span{
-    color: #E92763;
+    color:#FFC000;
 }
 @media screen and (max-width:960px) and (min-width:250px) {
     footer .logo a img{

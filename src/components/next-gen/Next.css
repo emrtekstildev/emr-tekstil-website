@@ -15,4 +15,11 @@
 }
 .text{
   padding: 2rem;
+  
+}
+.text h1{
+  color: #FFC000;
+}
+.text p{
+  color: #a3a3a3;
 }

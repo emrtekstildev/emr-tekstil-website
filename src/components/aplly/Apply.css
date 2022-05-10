@@ -50,7 +50,7 @@
     left: 0;
     display: block;
     border-radius: 28px;
-    background: #ed648f;
+    background: #FFC000;
     width: 56px;
     height: 56px;
     transition: all 0.3s ease;
@@ -78,7 +78,6 @@
   }
   .apply-button .cta:hover:before {
     width: 100%;
-    background: #f43974;
     color: #fff;
   }
   .apply-button .cta:hover svg {

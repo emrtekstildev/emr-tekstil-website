@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container,Row,Col} from 'react-bootstrap';
-import logo from '../../assets/media/logo.svg';
+import logo from '../../assets/media/emr-logo.png';
 import './Contact.css';
 
 

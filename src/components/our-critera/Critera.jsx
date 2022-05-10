@@ -17,7 +17,7 @@ import {Container, Row, Col} from 'react-bootstrap';
               </p>
             </Col>
             <Col md={6}>
-                <img src={img}  alt="" srcset="" />
+                <img src={img}  alt="emr" />
             </Col>
           </Row>
         </Container>

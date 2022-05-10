@@ -16,7 +16,7 @@ class Apply extends Component {
               </p>
           </div>
           <div className="apply-button">
-              <a href='#contact' class="cta">
+              <a href='#contact' className="cta">
                 <span>{contents.applyBtn}</span>
                 <svg width="13px" height="10px" viewBox="0 0 13 10">
                   <path d="M1,5 L11,5"></path>

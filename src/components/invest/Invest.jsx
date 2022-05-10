@@ -11,7 +11,7 @@ class Invest extends Component {
         <Container>
           <Row>
             <Col md={6}>
-                <img src={img}  alt="" srcset="" />
+                <img src={img}  alt="emr tekstil" />
             </Col>
             <Col md={6} className='text'>
               <h1>{contents.investmentProcces}</h1>
