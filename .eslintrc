@@ -1,0 +1,9 @@
+{
+    "plugins": ["disable"],
+    "processor": "disable/disable",
+    "overrides": [
+      {
+        "files": ["tests/**/*.test.js","./node_modules/bootstrap/dist/css/bootstrap.min.css"],
+      }
+    ]
+  }
